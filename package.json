@@ -1,0 +1,11 @@
+{
+  "name": "less-jade-template",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-jade": "*",
+    "gulp-less": "*"
+  }
+}
